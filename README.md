@@ -1,4 +1,4 @@
-## Hi, I'm Ramiro López 👋
+## Hi, I'm Ramiro Lopez 👋
 
 Actuarial Science candidate (University of Buenos Aires) working at **JPMorgan Chase & Co.**, focused on **financial risk management and capital markets**.
 
